@@ -2,6 +2,7 @@
   "product" : {
     "id": "sbd001",
     "title": "PowderPunch Snowboard",
+    "price" : "299.00"
     "description": "Get ready to ride the pow with the PowderPunch Snowboard. Our hybrid camber profile delivers a playful and forgiving ride that can handle anything the mountain throws at you.",
     "variants": [
       {
@@ -10,7 +11,8 @@
         "size": "M",
         "images": [
           "https://www.rossignol.com/media/catalog/product/r/e/reiwp70_district_ltd_01_6.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width=",
-          "https://www.rossignol.com/media/catalog/product/r/e/reiwp70_district_ltd_v2_03_5.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width="
+          "https://www.rossignol.com/media/catalog/product/r/e/reiwp70_district_ltd_v2_03_5.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width=", 
+          "https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2019/12/03/03a6a4a6-9fef-4d5f-91f5-2d55a07486e5/snowboard-homerun-2019"
         ]
       },
       {
@@ -19,7 +21,8 @@
         "size": "L",
         "images": [
           "https://www.rossignol.com/media/catalog/product/r/e/reiwp70_district_ltd_01_6.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width=",
-          "https://www.rossignol.com/media/catalog/product/r/e/reiwp70_district_ltd_v2_03_5.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width="
+          "https://www.rossignol.com/media/catalog/product/r/e/reiwp70_district_ltd_v2_03_5.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width=",
+          "https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2019/12/03/03a6a4a6-9fef-4d5f-91f5-2d55a07486e5/snowboard-homerun-2019"
         ]
       },
       {
