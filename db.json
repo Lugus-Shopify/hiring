@@ -1,0 +1,43 @@
+{
+  "product": {
+  "id": "sbd001",
+  "title": "PowderPunch Snowboard",
+  "description": "Get ready to ride the pow with the PowderPunch Snowboard. Our hybrid camber profile delivers a playful and forgiving ride that can handle anything the mountain throws at you.",
+  "variants": [
+    {
+      "id": "sbd001-m-blue",
+      "color": "Blue",
+      "size": "M"
+    },
+    {
+      "id": "sbd001-l-blue",
+      "color": "Blue",
+      "size": "L"
+    },
+    {
+      "id": "sbd001-m-yellow",
+      "color": "Yellow",
+      "size": "M"
+    },
+    {
+      "id": "sbd001-l-yellow",
+      "color": "Yellow",
+      "size": "L"
+    }
+  ],
+  "reviews": [
+    {
+      "rate": 5,
+      "comment": "I absolutely love this snowboard! It's so much fun to ride and handles great in all conditions."
+    },
+    {
+      "rate": 4,
+      "comment": "Great snowboard for the price. It's not the most advanced board out there, but it's perfect for beginners or intermediate riders."
+    },
+    {
+      "rate": 3,
+      "comment": "The PowderPunch Snowboard is decent, but nothing special. I was hoping for more pop and response."
+    }
+  ]
+}
+}
