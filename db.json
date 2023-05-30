@@ -2,7 +2,7 @@
   "product" : {
     "id": "sbd001",
     "title": "PowderPunch Snowboard",
-    "price" : "299.00"
+    "price" : "299.00",
     "description": "Get ready to ride the pow with the PowderPunch Snowboard. Our hybrid camber profile delivers a playful and forgiving ride that can handle anything the mountain throws at you.",
     "variants": [
       {
