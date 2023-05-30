@@ -10,9 +10,7 @@
         "color": "Blue",
         "size": "M",
         "images": [
-          "https://www.rossignol.com/media/catalog/product/r/e/reiwp70_district_ltd_01_6.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width=",
-          "https://www.rossignol.com/media/catalog/product/r/e/reiwp70_district_ltd_v2_03_5.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width=", 
-          "https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2019/12/03/03a6a4a6-9fef-4d5f-91f5-2d55a07486e5/snowboard-homerun-2019"
+          "https://www.rossignol.com/media/catalog/product/r/e/reiwp70_district_ltd_01_6.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width="
         ]
       },
       {
@@ -20,9 +18,7 @@
         "color": "Blue",
         "size": "L",
         "images": [
-          "https://www.rossignol.com/media/catalog/product/r/e/reiwp70_district_ltd_01_6.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width=",
-          "https://www.rossignol.com/media/catalog/product/r/e/reiwp70_district_ltd_v2_03_5.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width=",
-          "https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2019/12/03/03a6a4a6-9fef-4d5f-91f5-2d55a07486e5/snowboard-homerun-2019"
+          "https://www.rossignol.com/media/catalog/product/r/e/reiwp70_district_ltd_01_6.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width="
         ]
       },
       {
@@ -31,8 +27,6 @@
         "size": "M",
         "images": [
           "https://www.rossignol.com/media/catalog/product/r/e/relwc10_retox_rgb72dpi_01.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width=",
-          "https://www.rossignol.com/media/catalog/product/r/e/relwc10_retox_rgb72dpi_03.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width=",
-          "https://www.rossignol.com/media/catalog/product/r/e/relwc10_retox_rgb72dpi_02.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width="
         ]
       },
       {
@@ -41,8 +35,6 @@
         "size": "L",
         "images": [
           "https://www.rossignol.com/media/catalog/product/r/e/relwc10_retox_rgb72dpi_01.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width=",
-          "https://www.rossignol.com/media/catalog/product/r/e/relwc10_retox_rgb72dpi_03.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width=",
-          "https://www.rossignol.com/media/catalog/product/r/e/relwc10_retox_rgb72dpi_02.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width="
         ]
       }
     ],
@@ -70,22 +62,6 @@
         {
           "rate": 2,
           "comment": "Not very durable, started to delaminate after a few days of riding"
-        },
-        {
-          "rate": 4,
-          "comment": "Good all-around board"
-        },
-        {
-          "rate": 3,
-          "comment": "Decent board, but not as good as some others I've ridden"
-        },
-        {
-          "rate": 5,
-          "comment": "So much fun to ride!"
-        },
-        {
-          "rate": 4,
-          "comment": "Handles well in all types of snow conditions"
         }
       ]
     }
