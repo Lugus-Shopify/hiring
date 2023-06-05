@@ -9,33 +9,25 @@
         "id": "sbd001-m-blue",
         "color": "Blue",
         "size": "M",
-        "images": [
-          "https://www.rossignol.com/media/catalog/product/r/e/reiwp70_district_ltd_01_6.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width="
-        ]
+        "image": "https://www.rossignol.com/media/catalog/product/r/e/reiwp70_district_ltd_01_6.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width="
       },
       {
         "id": "sbd001-l-blue",
         "color": "Blue",
         "size": "L",
-        "images": [
-          "https://www.rossignol.com/media/catalog/product/r/e/reiwp70_district_ltd_01_6.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width="
-        ]
+        "image": "https://www.rossignol.com/media/catalog/product/r/e/reiwp70_district_ltd_01_6.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width="
       },
       {
         "id": "sbd001-m-yellow",
         "color": "Yellow",
         "size": "M",
-        "images": [
-          "https://www.rossignol.com/media/catalog/product/r/e/relwc10_retox_rgb72dpi_01.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width="
-        ]
+        "image": "https://www.rossignol.com/media/catalog/product/r/e/relwc10_retox_rgb72dpi_01.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width="
       },
       {
         "id": "sbd001-l-yellow",
         "color": "Yellow",
         "size": "L",
-        "images": [
-          "https://www.rossignol.com/media/catalog/product/r/e/relwc10_retox_rgb72dpi_01.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width="
-        ]
+        "image": "https://www.rossignol.com/media/catalog/product/r/e/relwc10_retox_rgb72dpi_01.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width="
       }
     ],
    "reviews": [
